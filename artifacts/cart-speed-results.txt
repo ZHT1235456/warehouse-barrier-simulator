@@ -1,0 +1,1 @@
+[2026.10.07-06.44.18:756][  0]LogTemp: Display: CART_SPEED_CHECK changes=12 failures=0 position_reset=0 stop_resume_direction=preserved

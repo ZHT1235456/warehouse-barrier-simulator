@@ -1,0 +1,16 @@
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/.vs/
+/.idea/
+/Trainer/build/
+/Trainer/out/
+/WarehouseBarrier.sln
+/开发日志素材/
+__pycache__/
+*.py[cod]
+*.log
+/artifacts/paper_smoke/
+/开发日志素材/
+/../仓储中心开发日志_Gemini素材包.zip

@@ -1,0 +1,2 @@
+using UnrealBuildTool;
+public class WarehouseBarrier : ModuleRules {public WarehouseBarrier(ReadOnlyTargetRules Target):base(Target){PCHUsage=PCHUsageMode.UseExplicitOrSharedPCHs;PublicDependencyModuleNames.AddRange(new[]{"Core","CoreUObject","Engine","InputCore","Json","JsonUtilities","Slate","SlateCore"});foreach(string Name in new[]{"model.json","parity.json","loss.csv","metrics_staged.csv","metrics_joint.csv","summary.csv"})RuntimeDependencies.Add("$(ProjectDir)/Content/Models/"+Name,StagedFileType.NonUFS);}}

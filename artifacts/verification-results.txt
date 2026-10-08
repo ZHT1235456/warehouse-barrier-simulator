@@ -1,0 +1,12 @@
+Speed 0.00 m/s
+[2026.10.07-04.37.34:622][  0]LogTemp: Display: LibTorch/UE inference parity passed: max_abs_error=0.000000344
+[2026.10.07-04.37.37:183][276]LogTemp: Display: Episode=1 method=1 navigation=1 min_margin=0.0637 effort=16.1328 px=7.096 py=4.110 time=13.80
+Speed 0.15 m/s
+[2026.10.07-04.38.23:704][  0]LogTemp: Display: LibTorch/UE inference parity passed: max_abs_error=0.000000344
+[2026.10.07-04.38.29:449][276]LogTemp: Display: Episode=1 method=1 navigation=1 min_margin=0.0637 effort=16.1644 px=7.096 py=4.101 time=13.80
+Speed 0.30 m/s
+[2026.10.07-04.38.48:897][  0]LogTemp: Display: LibTorch/UE inference parity passed: max_abs_error=0.000000344
+[2026.10.07-04.38.52:324][277]LogTemp: Display: Episode=1 method=1 navigation=1 min_margin=0.0637 effort=16.2350 px=7.096 py=4.117 time=13.85
+Speed 0.45 m/s
+[2026.10.07-04.39.11:196][  0]LogTemp: Display: LibTorch/UE inference parity passed: max_abs_error=0.000000344
+[2026.10.07-04.39.15:340][282]LogTemp: Display: Episode=1 method=1 navigation=1 min_margin=0.0637 effort=16.6406 px=7.096 py=4.125 time=14.10

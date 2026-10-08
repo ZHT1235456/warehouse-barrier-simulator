@@ -1,0 +1,4 @@
+speed=0.00 m/s : [2026.10.07-06.33.33:433][276]LogTemp: Display: OPS_COMPLETE jobs=9 cargo=12 min_margin=0.0689 time=275.85
+speed=0.15 m/s : [2026.10.07-06.33.48:997][291]LogTemp: Display: OPS_COMPLETE jobs=9 cargo=12 min_margin=0.0677 time=290.35
+speed=0.30 m/s : [2026.10.07-06.34.04:241][276]LogTemp: Display: OPS_COMPLETE jobs=9 cargo=12 min_margin=0.0567 time=275.00
+speed=0.45 m/s : [2026.10.07-06.34.36:485][275]LogTemp: Display: OPS_COMPLETE jobs=9 cargo=12 min_margin=0.0567 time=274.60

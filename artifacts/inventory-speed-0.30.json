@@ -1,0 +1,66 @@
+{
+	"completed_jobs": 9,
+	"time": 275.00000000002825,
+	"inventory": [
+		{
+			"id": 0,
+			"sku": "B",
+			"slot": 3
+		},
+		{
+			"id": 1,
+			"sku": "A",
+			"slot": 1
+		},
+		{
+			"id": 2,
+			"sku": "C",
+			"slot": 6
+		},
+		{
+			"id": 3,
+			"sku": "B",
+			"slot": 4
+		},
+		{
+			"id": 4,
+			"sku": "D",
+			"slot": 9
+		},
+		{
+			"id": 5,
+			"sku": "C",
+			"slot": 7
+		},
+		{
+			"id": 6,
+			"sku": "A",
+			"slot": 0
+		},
+		{
+			"id": 7,
+			"sku": "D",
+			"slot": 10
+		},
+		{
+			"id": 8,
+			"sku": "A",
+			"slot": 2
+		},
+		{
+			"id": 9,
+			"sku": "B",
+			"slot": 5
+		},
+		{
+			"id": 10,
+			"sku": "C",
+			"slot": 8
+		},
+		{
+			"id": 11,
+			"sku": "D",
+			"slot": 11
+		}
+	]
+}

@@ -1,0 +1,1 @@
+{"FileVersion":3,"EngineAssociation":"5.8","Category":"Research","Description":"Barrier-guided switching recovery in a warehouse","Modules":[{"Name":"WarehouseBarrier","Type":"Runtime","LoadingPhase":"Default"}],"Plugins":[{"Name":"PythonScriptPlugin","Enabled":true}]}
